@@ -18,7 +18,8 @@ python babyTambola.py
 
 ### Output
 
-A set of 200 unique tickets will be generated in the ticket folder. You can have a look over the sample of tickets by looking into the tickets folder of this repository.
+A set of 200 unique tickets will be generated in the ticket folder. A sample ticket is shown below.
+![screenshot](https://raw.githubusercontent.com/IIT-Sujal/Bingo-Game/master/tickets/1.png)
 
 ### Custom Invocation
 
